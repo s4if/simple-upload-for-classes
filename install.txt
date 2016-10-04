@@ -1,0 +1,3 @@
+============
+Sql to create DB:
+CREATE TABLE "upload_log" ("id" INTEGER PRIMARY KEY  AUTOINCREMENT  NOT NULL , "nama_1" VARCHAR NOT NULL , "nama_2" VARCHAR, "filename" VARCHAR NOT NULL , "waktu" INTEGER NOT NULL , "kelas" VARCHAR)

@@ -1,0 +1,10 @@
+{
+    "require": {
+        "slim/slim": "^3.5",
+        "slim/views": "^0.1.3",
+        "slim/php-view": "^2.1",
+        "slim/flash": "^0.1.0",
+        "aura/sql": "^2.5",
+        "aura/sqlquery": "^2.7"
+    }
+}
